@@ -10,5 +10,8 @@
   "devDependencies": {
     "parcel": "^2.0.1",
     "typescript": "^4.5.2"
+  },
+  "dependencies": {
+    "babylonjs": "^4.2.0"
   }
 }
